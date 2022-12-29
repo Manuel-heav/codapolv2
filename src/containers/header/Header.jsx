@@ -7,7 +7,7 @@ const Header = () => {
     <div className="gpt3__header section__padding" id="home">
       <div className="gpt3__header-content">
         <h1 className="gradient__text">Hello, My Name Is Amanuel Kebede</h1>
-        <p>I am a freelancing react developer in Ethiopia. A little about me, I am a senior stduent in Ethioparents highschool, I started programming when I was grade 9. And I have managed to teach myslef full stack web development while specializing on react for 3 years now.</p>
+        <p>I am a freelancing react developer in Ethiopia. I have managed to teach myslef full stack web development while specializing on react for 3 years now.</p>
         <div className="gpt3__header-content__input">
           <button type="button"><a href="#offers">My Offers</a></button>
         </div>
