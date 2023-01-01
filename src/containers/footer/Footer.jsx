@@ -20,8 +20,8 @@ const Footer = () => (
         <h4>Links</h4>
         <p><a href="https://github.com/manuel-heav"> Github</a></p>
         <p><a href="https://t.me/mr_blogrammer">Telegram</a></p>
-        <p><a href="https://www.instagram.com/amanuel_kb/">Instagram</a></p>
-        <p><a href="https://www.facebook.com/ManuelHeav/">Facebook</a></p>
+        <p><a href="https://www.linkedin.com/in/amanuel-kebede-691497244">LinkedIn</a></p>
+        <p><a href="https://twitter.com/the_blogrammer">Twitter</a></p>
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Company</h4>
@@ -31,13 +31,13 @@ const Footer = () => (
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Get in touch</h4>
-        <p>Primary Phone: +251989350938</p>
-        <p>Secondary Phone: +251938085067</p>
+        <p>Primary Phone: +251938085067</p>
+        <p>Secondary Phone: +251799113869</p>
       </div>
     </div>
 
     <div className="gpt3__footer-copyright">
-      <p>@2021 Codapol. All rights reserved.</p>
+      <p>@2023 Codapol. All rights reserved.</p>
     </div>
   </div>
 );

@@ -4,24 +4,32 @@ import './skills.css';
 
 const featuresData = [
   {
-    title: 'HTML, CSS and Bootstrap',
-    text: 'What is a developer without these skills.',
+    title: 'HTML, CSS and Tailwind',
+    text: 'Easy Frontend',
   },
   {
     title: 'Javascript',
     text: 'My whole stack revolve around this beautiful langauge.',
   },
   {
-    title: 'React',
-    text: 'My favourite framework of all time.',
+    title: 'ReactJS, NextJS, Redux',
+    text: 'Favourite framework of all time',
   },
   {
-    title: 'Node and Express',
-    text: 'I wanted to learn other backend languages. But my heart is still with javascript. So I sticked around with NodeJs.',
+    title: 'NodeJS, ExpressJS, Firebase',
+    text: 'For Backend',
   },
   {
     title: 'C++ and fortran',
-    text: 'Not an expert on them. But familiar with them, for the sake of experience.',
+    text: 'For lower level programming.',
+  },
+  {
+    title: 'Git & Github',
+    text: 'For version Control.',
+  },
+  {
+    title: 'Linux and Command Line',
+    text: 'Linux for Fun, Terminal for efficiency.',
   },
 ];
 
